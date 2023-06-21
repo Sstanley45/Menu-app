@@ -5,7 +5,8 @@ This is a brief README for the Food Menu App project.
 
 The Food Menu App is developed using HTML, CSS, and ReactJS. It provides a user-friendly interface for browsing and filtering different meals.
 
-The app utilizes HTML for structuring the web page and CSS for styling and visual enhancements. ReactJS, a powerful JavaScript library for building user interfaces, is employed to create dynamic and interactive components.
+The app utilizes HTML for structuring the web page and CSS for styling and visual enhancements.
+ReactJS, a powerful JavaScript library for building user interfaces, is employed to create dynamic and interactive components.
 
 The app includes buttons with functionality to filter desired meals. Users can select from various options, such as breakfast, lunch, and shakers, to view specific categories of meals. The filtering feature enhances the user experience by allowing users to quickly find the desired meals based on their preferences.
 
